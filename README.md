@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Victor Lima! 👋
 
 ## Sobre mim
 👨‍💻 Sou um entusiasta de tecnologia e estou dando meus primeiros passos como programador front-end. Estou animado para aprender e crescer na área de desenvolvimento web.
@@ -13,7 +13,7 @@
 Neste perfil, você encontrará meus projetos pessoais, desde pequenos exercícios até projetos mais elaborados. Estou aberto a colaborações e feedbacks!
 
 ## Contato
-Gostaria de se conectar ou discutir oportunidades? Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil-do-linkedin/). Estou ansioso para conhecer novas pessoas e explorar novas oportunidades na área de desenvolvimento web.
+Gostaria de se conectar ou discutir oportunidades? Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/victor-lima-203250300/). Estou ansioso para conhecer novas pessoas e explorar novas oportunidades na área de desenvolvimento web.
 
 
 
