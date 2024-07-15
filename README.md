@@ -1,10 +1,18 @@
-<h1 align="left">Olá, eu sou Victor Lima! 👋</h1>
+<h1 align="left">Olá, eu sou João Victor! 👋</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Sobre mim<br>👨‍💻 Sou um entusiasta de tecnologia e estou dando meus primeiros passos como programador front-end. Estou animado para aprender e crescer na área de desenvolvimento web.</p>
+<p align="left">👨‍💻 Sou um entusiasta de tecnologia e estou dando meus primeiros passos como programador front-end. Estou animado para aprender e crescer na área de desenvolvimento web.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="350" src="https://giffiles.alphacoders.com/171/171294.gif"  />
+</div>
 
 ###
 
@@ -49,24 +57,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/171/171294.gif"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/t1victor/t1victor/output/snake.svg" alt="Snake animation" />
 
-
-
+###
