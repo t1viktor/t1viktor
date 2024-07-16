@@ -1,6 +1,6 @@
 <h1 align="left">Olá, eu sou João Victor! 👋</h1>
 
-###
+### ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12144479857&unique={true|1|on|yes})
 
 <br clear="both">
 
