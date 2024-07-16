@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<p align="left">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12144479857)</p>
+
 
 ###
