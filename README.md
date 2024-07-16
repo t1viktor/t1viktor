@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Gostaria de se conectar ou discutir oportunidades? Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/victor-lima-203250300/). Estou ansioso para conhecer novas pessoas e explorar novas oportunidades na área de desenvolvimento web.</p>
+<p align="left">Gostaria de se conectar ou discutir oportunidades? Sinta-se à vontade para me contatar pelo [Portifolio](https://t1viktor.github.io/meuPortifolio/) . Estou ansioso para conhecer novas pessoas e explorar novas oportunidades na área de desenvolvimento web.</p>
 
 ###
 
