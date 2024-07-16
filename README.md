@@ -6,7 +6,7 @@
 
 <p align="left">👨‍💻 Sou um entusiasta de tecnologia e estou dando meus primeiros passos como programador front-end. Estou animado para aprender e crescer na área de desenvolvimento web.</p>
 
-## ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12144479857)
+###
 
 <br clear="both">
 
@@ -67,5 +67,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/t1victor/t1victor/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<p align="left">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12144479857&unique={true|1|on|yes})</p>
 
 ###
