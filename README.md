@@ -64,11 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/t1victor/t1victor/output/snake.svg" alt="Snake animation" />
-
-
-<br clear="both">
-
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12144479857&count=3&unique=true" alt="Spotify recently played" style="width: 40%;">
 </div>
