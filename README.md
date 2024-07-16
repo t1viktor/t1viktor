@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou João Victor! 👋</h1>
+<h1 align="left">Olá, eu sou Victor Lima! 👋</h1>
 
 <br clear="both">
 
