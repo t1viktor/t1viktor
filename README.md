@@ -3,10 +3,10 @@
 ###
 
 <br clear="both">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12144479857)
+
 <p align="left">👨‍💻 Sou um entusiasta de tecnologia e estou dando meus primeiros passos como programador front-end. Estou animado para aprender e crescer na área de desenvolvimento web.</p>
 
-###
+## ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12144479857)
 
 <br clear="both">
 
