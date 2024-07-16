@@ -64,6 +64,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/t1viktor/t1viktor/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/t1victor/t1victor/output/snake.svg" alt="Snake animation" />
 
 ###
